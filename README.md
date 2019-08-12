@@ -1,6 +1,8 @@
 # pcount_aws
 A People Counter Application 
 
+Developed by Peter Girgis, pgirgis@bigmate.com.au for use by all.
+
 Modified from good work done by Adrian Rosebrock https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 
 Designed for python3
